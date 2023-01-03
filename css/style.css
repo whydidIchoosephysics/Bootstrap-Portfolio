@@ -9,4 +9,13 @@
 
 .container h1, p{
     color:white;
+    }
+
+.container > .card {
+    display: flex;
+    justify-content: center
+}
+
+#FirstProject {
+    width: 100% !important;
 }
