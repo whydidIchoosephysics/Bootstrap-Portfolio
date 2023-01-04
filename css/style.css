@@ -1,5 +1,3 @@
-
-
 .jumbotron {
     background-image: url("../images/Polygon-Luminary.svg");
     background-size: cover;
@@ -7,15 +5,13 @@
     background-position: 0 100%
 }
 
-.container h1, p{
-    color:white;
-    }
-
-.container > .card {
-    display: flex;
-    justify-content: center
+.jumbotron > .container p, h1 {
+    color: white;
 }
 
+
 #FirstProject {
+    display: flex;
+    justify-content: center;
     width: 100% !important;
 }
