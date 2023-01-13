@@ -10,11 +10,11 @@
 }
 
 
-#FirstProject {
+/* #FirstProject {
     display: flex;
     justify-content: center;
     width: 100% !important;
-}
+} */
 
 aside {
     border-right: thin inset black;
@@ -28,4 +28,9 @@ footer {
     display: flex;
     justify-content: center;
     width: 36% !important;
+}
+
+.card-img-top{
+    width
+    max-width: 100%;
 }
